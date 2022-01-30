@@ -27,7 +27,7 @@ else:
     print('Negative Number')
 
 
-#You may also write nested conditional statements
+#You may also write nested conditional statement
 
 num1 = 10
 num2 = 20
